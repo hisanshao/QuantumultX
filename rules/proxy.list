@@ -84,7 +84,6 @@ host,officecdn-microsoft-com.akamaized.net,proxy
 host,opgg-static.akamaized.net,proxy
 host,origin-a.akamaihd.net,proxy
 host,p-events-delivery.akamaized.net,proxy
-host,p16-tiktokcdn-com.akamaized.net,proxy
 host,paper-attachments.s3.amazonaws.com,proxy
 host,poshtestgallery.cloudapp.net,proxy
 host,prd-priconne-redive.akamaized.net,proxy
@@ -12540,8 +12539,6 @@ host-suffix,ibooksauthor.com,proxy
 host-suffix,ibros.org,proxy
 host-suffix,ibtimes.com,proxy
 host-suffix,ibvpn.com,proxy
-host-suffix,ibytedtos.com,proxy
-host-suffix,ibyteimg.com,proxy
 host-suffix,icams.com,proxy
 host-suffix,icanstay.com,proxy
 host-suffix,ice,proxy
@@ -21879,7 +21876,6 @@ host-suffix,tigerdirect.com,proxy
 host-suffix,tigervpn.com,proxy
 host-suffix,tiktok.com,proxy
 host-suffix,tiktokcdn.com,proxy
-host-suffix,tiktokv.com,proxy
 host-suffix,tiltbrush.com,proxy
 host-suffix,timdir.com,proxy
 host-suffix,time.com,proxy
@@ -29065,3 +29061,13 @@ host-suffix,zzy.healthsection.xyz,proxy
 host-suffix,zzy.namedns.xyz,proxy
 host-suffix,zzz.healthsection.xyz,proxy
 host-suffix,zzz36.net,proxy
+HOST-SUFFIX,ipstatp.com,proxy
+HOST-SUFFIX,musical.ly,proxy
+HOST-SUFFIX,sgpstatp.com,proxy
+HOST-SUFFIX,snssdk.com,proxy
+HOST-SUFFIX,tik-tokapi.com,proxy
+HOST-KEYWORD,-tiktokcdn-com,proxy
+HOST-KEYWORD,musical.ly,proxy
+HOST-KEYWORD,tiktok,proxy
+HOST-KEYWORD,tiktokv,proxy
+USER-AGENT,TikTok*,proxy
