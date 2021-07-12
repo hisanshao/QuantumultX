@@ -69363,3 +69363,5 @@ host-suffix,zzzyk.com,direct
 host-suffix,zzzzaaaa.com,direct
 host-suffix,zzzzhong.com,direct
 host-suffix,zzzzmall.com,direct
+user-agent,MicroMessenger Client*,direct
+user-agent,WeChat*,direct
